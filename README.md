@@ -9,4 +9,7 @@ This repo helps you get ahead in your job search with:
 
 Use signals from company research, industry trends, and online discussions to spot hidden roles early. Organize research, automate tasks, and maximize your chances—no technical background required.
 
+Free Signal Planning Sheet can be found here... https://docs.google.com/spreadsheets/d/1Oqodc3WzzDifnJhY0C8xCCkgaAbzJqpPnbXLk_yiOAs/edit?usp=sharing
+Inforation Vide: https://youtu.be/MFCwBvpcb7I
+
 **Get started and unlock
